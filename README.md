@@ -16,7 +16,7 @@ OR-KAN is a tool for quality control (QC) of T2-weighted (T2w) fetal brain MR im
 
 #### Environment
 
-+ Downloading `myenv.tar.gz` from Google Drive
++ Downloading `myenv.tar.gz` from [Google Drive](https://drive.google.com/file/d/1KjPxd1QYTBNT1fli7-7mZql5g-eTkgmj/view?usp=sharing)
 
 + Extract the package using the following command:  
 
