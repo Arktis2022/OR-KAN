@@ -54,4 +54,9 @@ OR-KAN is a tool for quality control (QC) of T2-weighted (T2w) fetal brain MR im
 
   In this command, `YOUR_DATA` should contain all T2-weighted scans (`.nii.gz` files) for a single subject. Upon completion, `YOUR_OUTPUT_DIR` will contain the highest-quality image for each of the three orientations.
 
-  
+#### Acknowledgments
+We gratefully acknowledge the contributions of the following projects:  
+1. https://github.com/IntelligentImaging/fetal-brain-extraction  
+2. https://github.com/IvanDrokin/torch-conv-kan  
+3. https://github.com/KindXiaoming/pykan  
+4. https://github.com/gift-surg/NiftyMIC
